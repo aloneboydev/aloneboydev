@@ -1,7 +1,7 @@
 
-<h2 align="center">Hello There! I am supun</h2>
+<h2 align="center">Hello There! I am aloneboy</h2>
 
-Introduce you about myself, my name is supun maduranga ; 18 y.o from Sri lanka.
+Introduce you about myself, my name is supun maduranga ; 20 y.o from Sri indonesia.
 
 ![supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=szsupunma&show_icons=true&theme=radical)
 
