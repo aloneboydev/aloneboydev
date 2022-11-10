@@ -3,7 +3,7 @@
 
 Introduce you about myself, my name is aloneboy ; 20 y.o from Sri indonesia.
 
-![aloneboy GitHub stats](https://github-readme-stats.vercel.app/api?username=szsupunma&show_icons=true&theme=radical)
+![aloneboy GitHub stats](https://github-readme-stats.vercel.app/api?username=aloneboy&show_icons=true&theme=radical)
 
 <h4 align="center">✌️I’m not trying to be Different.<br> To me,<br> I’m just being myself & my style ♥️</h4>
   
